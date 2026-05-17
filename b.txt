@@ -1,1 +1,2 @@
 hello
+Second commit: update content for rebase test
